@@ -421,6 +421,10 @@ class Submission(Project):
 
             # Only show diff_lines lines excluding first 3
             diff = []
+
+            #Adding functionality to diff -w for the files
+            expected = [line.strip() for line in expected]
+            output = [line.strip() for line in output]
             for line in difflib.unified_diff(expected, output):
                 if len(line) > settings.diff_max_line_width:
                     diff.append(line[:settings.diff_max_line_width] + '...\n')

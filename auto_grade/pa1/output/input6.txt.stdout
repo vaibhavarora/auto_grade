@@ -1,0 +1,61 @@
+item successfully inserted
+item successfully inserted
+item successfully inserted
+item already present
+item already present
+item already present
+item found; a 1
+item found; b 2
+item found; c 3
+(1,a)(2,b)(3,c)
+item successfully deleted
+item successfully deleted
+item successfully deleted
+item not found
+item not found
+item not found
+item not present in the table
+item not present in the table
+item not present in the table
+item successfully inserted
+item successfully inserted
+item successfully inserted
+item found; c 2
+item found; b 1
+item found; a 0
+(443,a)(886,b)(1329,c)
+item successfully deleted
+item successfully deleted
+item successfully deleted
+item successfully inserted
+item successfully inserted
+item successfully inserted
+(7528,vaibhav)(8724,victor)(3524,asad)
+item successfully inserted
+table doubled
+(7528,vaibhav)(3524,asad)(8730,amr)(8724,victor)
+item not found
+item found; amr 4
+item found; victor 7
+item successfully deleted
+item not present in the table
+item not found
+(7528,vaibhav)(3524,asad)(8730,amr)
+item already present
+item successfully inserted
+item found; jin 8
+item successfully deleted
+item successfully inserted
+item found; newjin 8
+(7528,vaibhav)(3524,asad)(8730,amr)(2373,newjin)
+item successfully inserted
+item successfully inserted
+item successfully inserted
+(7528,vaibhav)(3544,shaun)(7543,michael)(3524,asad)(8730,amr)(9340,margaret)(2373,newjin)
+item successfully inserted
+table doubled
+(7528,vaibhav)(3544,shaun)(3524,asad)(6533,rick)(7543,michael)(8730,amr)(9340,margaret)(2373,newjin)
+item successfully inserted
+item found; indextwenty 19
+item successfully inserted
+item found; looparound 2

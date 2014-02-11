@@ -1,0 +1,999 @@
+delete 6807
+lookup 5904
+insert 5694 value5694
+print
+lookup 7621
+lookup 6939
+insert 7837 value7837
+insert 7758 value7758
+lookup 7554
+insert 6464 value6464
+delete 4197
+insert 5904 value5904
+delete 4939
+insert 6395 value6395
+print
+print
+print
+insert 7846 value7846
+insert 4197 value4197
+insert 4383 value4383
+delete 6939
+lookup 5904
+print
+delete 6873
+lookup 4757
+insert 7748 value7748
+delete 7837
+print
+lookup 6328
+delete 5856
+insert 4384 value4384
+delete 6667
+print
+delete 6361
+lookup 4123
+print
+lookup 6667
+delete 5154
+lookup 7110
+print
+insert 6043 value6043
+lookup 4939
+delete 6464
+insert 6708 value6708
+insert 6686 value6686
+insert 4783 value4783
+insert 4870 value4870
+insert 4383 value4383
+delete 7758
+insert 4870 value4870
+lookup 4434
+delete 7255
+insert 4434 value4434
+lookup 6708
+insert 7554 value7554
+delete 5189
+lookup 6770
+lookup 7837
+insert 4434 value4434
+lookup 4367
+insert 6667 value6667
+insert 4085 value4085
+insert 6237 value6237
+insert 7426 value7426
+insert 6770 value6770
+insert 4367 value4367
+lookup 5652
+lookup 5154
+delete 4996
+delete 6708
+insert 6610 value6610
+lookup 5111
+lookup 5800
+insert 7489 value7489
+insert 6770 value6770
+delete 5999
+delete 6328
+insert 7846 value7846
+insert 5420 value5420
+lookup 4757
+delete 4593
+insert 5956 value5956
+insert 7837 value7837
+lookup 5081
+print
+lookup 7554
+insert 6122 value6122
+insert 6389 value6389
+lookup 6122
+delete 5657
+lookup 5434
+insert 6908 value6908
+insert 4197 value4197
+delete 6873
+insert 7426 value7426
+insert 5694 value5694
+print
+delete 4383
+delete 7025
+lookup 7748
+insert 4999 value4999
+insert 4085 value4085
+print
+lookup 5579
+print
+print
+lookup 7758
+insert 6389 value6389
+delete 7758
+insert 7147 value7147
+insert 6667 value6667
+delete 4734
+print
+insert 4123 value4123
+print
+delete 7489
+lookup 6296
+insert 6610 value6610
+delete 6389
+insert 6667 value6667
+insert 7846 value7846
+lookup 5856
+lookup 7281
+delete 6276
+lookup 5434
+insert 6939 value6939
+insert 7063 value7063
+insert 6122 value6122
+insert 5130 value5130
+lookup 5856
+delete 6389
+insert 5657 value5657
+print
+delete 6667
+print
+lookup 4870
+insert 4383 value4383
+insert 4530 value4530
+print
+insert 4870 value4870
+insert 4530 value4530
+insert 5284 value5284
+insert 6361 value6361
+insert 4657 value4657
+delete 4996
+insert 5856 value5856
+insert 6276 value6276
+insert 6667 value6667
+insert 4734 value4734
+insert 7063 value7063
+delete 4870
+lookup 5420
+lookup 7467
+insert 4783 value4783
+lookup 7025
+delete 4996
+lookup 6328
+delete 7621
+insert 6667 value6667
+insert 4999 value4999
+lookup 4367
+insert 5956 value5956
+delete 5694
+print
+delete 5447
+delete 6908
+insert 6807 value6807
+delete 4530
+delete 5579
+delete 7255
+lookup 7255
+insert 6122 value6122
+insert 5423 value5423
+lookup 5423
+lookup 5423
+delete 6587
+delete 4383
+delete 7621
+delete 5694
+insert 7712 value7712
+insert 6873 value6873
+delete 5652
+print
+lookup 7758
+insert 4939 value4939
+delete 5904
+lookup 4999
+delete 4177
+print
+insert 7281 value7281
+insert 5447 value5447
+delete 6807
+delete 4177
+lookup 5657
+lookup 4999
+insert 6807 value6807
+insert 6043 value6043
+delete 6908
+insert 7622 value7622
+delete 7426
+insert 6807 value6807
+lookup 5579
+lookup 7758
+insert 6296 value6296
+delete 5420
+insert 4085 value4085
+print
+insert 6464 value6464
+delete 6807
+insert 7412 value7412
+insert 5830 value5830
+insert 7748 value7748
+delete 7846
+lookup 7446
+delete 6873
+delete 4530
+delete 7748
+insert 7501 value7501
+delete 4593
+delete 5130
+delete 5904
+lookup 4530
+insert 7712 value7712
+lookup 5955
+insert 6667 value6667
+lookup 6024
+insert 7489 value7489
+insert 5956 value5956
+lookup 6237
+delete 6043
+delete 4999
+insert 5955 value5955
+insert 7489 value7489
+insert 7110 value7110
+lookup 6873
+insert 5652 value5652
+insert 5420 value5420
+insert 4734 value4734
+lookup 5189
+delete 6770
+delete 5579
+delete 4197
+insert 6520 value6520
+delete 4051
+lookup 4383
+delete 5677
+insert 6908 value6908
+insert 5434 value5434
+insert 7846 value7846
+print
+lookup 7412
+print
+lookup 4870
+delete 4530
+print
+insert 6328 value6328
+delete 7746
+delete 4197
+lookup 5081
+insert 7255 value7255
+delete 6395
+insert 5652 value5652
+insert 4162 value4162
+delete 4085
+print
+delete 6939
+print
+lookup 7255
+insert 4474 value4474
+print
+print
+print
+lookup 7025
+delete 5420
+lookup 7746
+delete 6043
+insert 5111 value5111
+lookup 6281
+insert 6395 value6395
+insert 5999 value5999
+lookup 5130
+delete 7712
+insert 6464 value6464
+insert 5956 value5956
+delete 5154
+delete 7025
+insert 6520 value6520
+insert 5111 value5111
+delete 7472
+insert 5069 value5069
+insert 4383 value4383
+lookup 6296
+lookup 4593
+print
+delete 7746
+delete 4085
+insert 6807 value6807
+insert 6296 value6296
+insert 5677 value5677
+insert 5761 value5761
+insert 5081 value5081
+lookup 7426
+print
+insert 6043 value6043
+lookup 7622
+print
+print
+print
+lookup 6873
+insert 6770 value6770
+lookup 6237
+delete 5130
+delete 5856
+insert 5434 value5434
+lookup 7446
+insert 4162 value4162
+insert 5114 value5114
+insert 6328 value6328
+print
+lookup 7712
+delete 5579
+delete 6043
+insert 4530 value4530
+print
+insert 6873 value6873
+insert 4999 value4999
+lookup 7025
+print
+insert 5434 value5434
+insert 7501 value7501
+insert 4162 value4162
+insert 5447 value5447
+insert 7748 value7748
+insert 5652 value5652
+insert 7501 value7501
+delete 6361
+delete 7748
+insert 6610 value6610
+insert 6807 value6807
+delete 4085
+print
+lookup 5579
+insert 7446 value7446
+lookup 6230
+insert 4367 value4367
+delete 4051
+lookup 5694
+lookup 6667
+insert 7027 value7027
+lookup 5652
+lookup 4051
+delete 4734
+delete 7255
+insert 5761 value5761
+insert 4051 value4051
+insert 7025 value7025
+insert 4996 value4996
+lookup 7027
+insert 4783 value4783
+insert 6587 value6587
+insert 5999 value5999
+insert 6610 value6610
+lookup 7622
+lookup 6237
+insert 6939 value6939
+insert 4605 value4605
+insert 4383 value4383
+delete 5761
+insert 4593 value4593
+insert 7622 value7622
+insert 5761 value5761
+delete 4734
+insert 7412 value7412
+print
+insert 4051 value4051
+delete 6873
+insert 7758 value7758
+lookup 5830
+delete 6667
+insert 5657 value5657
+delete 4757
+delete 6639
+lookup 4996
+insert 6770 value6770
+lookup 4870
+insert 4605 value4605
+insert 4757 value4757
+lookup 4593
+lookup 7446
+delete 5830
+insert 7446 value7446
+delete 4177
+insert 4870 value4870
+delete 7412
+insert 4783 value4783
+insert 4657 value4657
+lookup 6122
+insert 7748 value7748
+delete 7027
+insert 6122 value6122
+print
+print
+delete 6520
+print
+insert 7063 value7063
+lookup 4999
+print
+lookup 6770
+delete 6464
+insert 6122 value6122
+print
+delete 4734
+insert 4383 value4383
+delete 6395
+lookup 6667
+insert 7489 value7489
+insert 5999 value5999
+delete 6464
+delete 7746
+insert 7027 value7027
+insert 4734 value4734
+lookup 7025
+delete 5830
+print
+lookup 4367
+insert 5189 value5189
+delete 6686
+insert 7467 value7467
+insert 6639 value6639
+lookup 4996
+delete 5657
+lookup 4177
+lookup 5420
+insert 4593 value4593
+delete 6770
+insert 5114 value5114
+lookup 7746
+delete 4123
+delete 6667
+lookup 4162
+insert 4870 value4870
+delete 4384
+insert 7748 value7748
+print
+insert 6667 value6667
+lookup 6122
+lookup 7281
+insert 4434 value4434
+lookup 4757
+insert 7746 value7746
+insert 6122 value6122
+print
+delete 5081
+insert 4999 value4999
+print
+delete 6873
+lookup 7281
+delete 4177
+delete 5955
+delete 6361
+delete 5694
+delete 7622
+lookup 4870
+insert 4162 value4162
+insert 6281 value6281
+lookup 6276
+lookup 5447
+lookup 6610
+insert 5652 value5652
+insert 6939 value6939
+insert 7110 value7110
+lookup 7622
+insert 6395 value6395
+print
+insert 4474 value4474
+delete 6807
+insert 4605 value4605
+insert 5154 value5154
+delete 6686
+insert 6043 value6043
+delete 4123
+delete 7758
+lookup 5284
+lookup 6520
+insert 4783 value4783
+delete 4367
+lookup 5657
+lookup 6395
+lookup 7621
+lookup 4123
+lookup 5956
+lookup 5956
+insert 6708 value6708
+lookup 6667
+delete 7622
+lookup 7621
+insert 5434 value5434
+delete 6610
+delete 5420
+delete 7255
+lookup 7748
+print
+lookup 4605
+lookup 5956
+lookup 5761
+delete 5956
+insert 5434 value5434
+lookup 6237
+print
+insert 7758 value7758
+insert 5189 value5189
+lookup 4734
+lookup 6296
+print
+lookup 4085
+lookup 4434
+delete 7554
+print
+insert 5130 value5130
+insert 4051 value4051
+insert 7412 value7412
+delete 7412
+delete 7063
+insert 6686 value6686
+insert 4783 value4783
+print
+lookup 6708
+delete 5447
+delete 5955
+insert 4085 value4085
+lookup 6043
+delete 6237
+lookup 5999
+insert 5423 value5423
+lookup 6708
+insert 4051 value4051
+insert 7489 value7489
+print
+insert 7426 value7426
+lookup 7446
+delete 5955
+delete 5657
+lookup 4197
+delete 5694
+delete 5420
+insert 5069 value5069
+print
+insert 4474 value4474
+print
+insert 4162 value4162
+lookup 6908
+insert 7147 value7147
+insert 6328 value6328
+delete 4434
+delete 7467
+delete 4383
+insert 6395 value6395
+insert 5677 value5677
+insert 5423 value5423
+lookup 6708
+delete 6667
+insert 6024 value6024
+lookup 4605
+insert 4123 value4123
+lookup 4434
+lookup 6328
+delete 4085
+print
+insert 7621 value7621
+lookup 6043
+lookup 4832
+delete 4197
+print
+insert 7746 value7746
+print
+lookup 5111
+insert 6667 value6667
+print
+delete 6296
+insert 7063 value7063
+delete 4593
+print
+lookup 7622
+delete 4999
+insert 7554 value7554
+insert 6281 value6281
+insert 7063 value7063
+print
+lookup 6708
+insert 5069 value5069
+insert 7622 value7622
+lookup 4657
+insert 6276 value6276
+print
+delete 7063
+delete 5694
+lookup 5657
+lookup 4197
+lookup 7501
+insert 7147 value7147
+delete 4783
+delete 5579
+lookup 4434
+insert 6610 value6610
+delete 6361
+insert 5856 value5856
+delete 7758
+delete 6281
+delete 4383
+insert 5800 value5800
+print
+delete 7255
+insert 6296 value6296
+insert 5830 value5830
+delete 6237
+insert 6122 value6122
+lookup 5579
+insert 6667 value6667
+lookup 7758
+insert 6610 value6610
+delete 4657
+delete 7837
+delete 6939
+print
+insert 4530 value4530
+lookup 6708
+delete 5111
+delete 6610
+insert 5904 value5904
+lookup 4870
+insert 6361 value6361
+delete 6024
+insert 4783 value4783
+delete 4530
+insert 5114 value5114
+delete 6610
+lookup 5579
+delete 6230
+lookup 6908
+lookup 6873
+lookup 4734
+insert 4996 value4996
+lookup 5999
+delete 4783
+delete 4085
+delete 4383
+lookup 5830
+lookup 5652
+insert 5447 value5447
+insert 7467 value7467
+lookup 6296
+delete 4757
+insert 6610 value6610
+lookup 5652
+lookup 4162
+print
+insert 7255 value7255
+print
+insert 7472 value7472
+delete 7746
+lookup 7467
+delete 7758
+insert 6328 value6328
+lookup 4593
+print
+lookup 6686
+delete 5956
+print
+print
+lookup 4474
+lookup 7426
+lookup 7281
+delete 4832
+print
+insert 6520 value6520
+insert 5130 value5130
+lookup 5284
+insert 7147 value7147
+print
+insert 6639 value6639
+lookup 5856
+insert 6237 value6237
+insert 7621 value7621
+delete 6667
+delete 7147
+delete 4384
+delete 6281
+lookup 5447
+lookup 6686
+insert 6610 value6610
+insert 5657 value5657
+delete 7255
+delete 7412
+insert 7255 value7255
+lookup 7837
+insert 5111 value5111
+insert 6667 value6667
+print
+insert 7501 value7501
+insert 4870 value4870
+delete 7748
+insert 6389 value6389
+delete 6281
+insert 6395 value6395
+lookup 6667
+lookup 5830
+lookup 5069
+print
+delete 6939
+lookup 7027
+insert 6464 value6464
+insert 6667 value6667
+delete 7712
+print
+delete 7472
+insert 6939 value6939
+insert 4593 value4593
+lookup 4870
+insert 5830 value5830
+insert 6043 value6043
+insert 4177 value4177
+delete 7758
+print
+delete 5189
+delete 4085
+print
+insert 7554 value7554
+lookup 4434
+insert 7110 value7110
+insert 5081 value5081
+insert 7110 value7110
+delete 5657
+insert 6667 value6667
+lookup 6873
+insert 4085 value4085
+insert 7147 value7147
+delete 7025
+lookup 4162
+delete 4530
+insert 5130 value5130
+insert 6520 value6520
+insert 5081 value5081
+insert 6939 value6939
+lookup 6464
+print
+print
+delete 7472
+insert 5579 value5579
+insert 5652 value5652
+lookup 4123
+lookup 6587
+insert 5130 value5130
+insert 4434 value4434
+insert 6939 value6939
+delete 4530
+delete 5189
+delete 7489
+insert 6043 value6043
+lookup 6667
+delete 5434
+insert 5069 value5069
+lookup 6667
+lookup 4474
+insert 7110 value7110
+delete 7758
+lookup 4757
+lookup 5761
+insert 4734 value4734
+insert 7426 value7426
+delete 6361
+insert 7426 value7426
+insert 6686 value6686
+lookup 4783
+lookup 7147
+insert 7712 value7712
+insert 6667 value6667
+insert 6770 value6770
+delete 5447
+delete 4593
+lookup 7621
+print
+insert 5423 value5423
+delete 6328
+lookup 7748
+insert 5856 value5856
+delete 6807
+delete 4657
+delete 7472
+delete 6520
+lookup 6389
+lookup 4783
+insert 4384 value4384
+lookup 4162
+delete 7063
+delete 4162
+delete 4996
+delete 7758
+delete 5761
+lookup 6610
+delete 7472
+insert 4384 value4384
+lookup 4197
+delete 7846
+insert 4383 value4383
+delete 6024
+delete 6230
+lookup 4123
+delete 5955
+lookup 7063
+lookup 5955
+lookup 5114
+lookup 7846
+lookup 5114
+delete 4657
+lookup 5579
+insert 7489 value7489
+delete 5652
+insert 6770 value6770
+insert 4939 value4939
+insert 7501 value7501
+lookup 7467
+insert 5189 value5189
+insert 4939 value4939
+insert 4171 value4171
+delete 7025
+insert 4051 value4051
+lookup 4474
+insert 5579 value5579
+insert 6276 value6276
+print
+lookup 7446
+insert 7748 value7748
+print
+delete 7622
+insert 7748 value7748
+delete 6237
+insert 6873 value6873
+insert 5830 value5830
+lookup 5423
+delete 6043
+print
+print
+delete 5081
+delete 7110
+insert 6587 value6587
+print
+delete 6395
+insert 7426 value7426
+lookup 5800
+insert 5420 value5420
+delete 6686
+lookup 5434
+insert 5434 value5434
+print
+insert 5955 value5955
+insert 5830 value5830
+delete 6770
+delete 7063
+insert 5830 value5830
+lookup 4870
+delete 5130
+insert 5830 value5830
+insert 5081 value5081
+print
+print
+insert 4197 value4197
+lookup 5652
+delete 7837
+insert 4783 value4783
+insert 4171 value4171
+insert 7712 value7712
+print
+print
+lookup 6464
+insert 6770 value6770
+lookup 7846
+insert 6122 value6122
+delete 5830
+delete 4384
+insert 4939 value4939
+insert 5830 value5830
+lookup 5154
+insert 5420 value5420
+delete 7758
+insert 5111 value5111
+insert 4593 value4593
+lookup 6122
+delete 7467
+insert 4051 value4051
+insert 6873 value6873
+insert 6686 value6686
+insert 6361 value6361
+lookup 5189
+insert 5579 value5579
+delete 7758
+delete 5657
+lookup 7110
+delete 7027
+lookup 6024
+delete 6389
+insert 6389 value6389
+delete 4085
+delete 4939
+insert 6024 value6024
+delete 7748
+insert 5579 value5579
+lookup 5956
+delete 6708
+lookup 7758
+delete 5434
+print
+delete 7027
+insert 7748 value7748
+lookup 6667
+insert 4474 value4474
+delete 6708
+lookup 6024
+lookup 5904
+insert 5130 value5130
+insert 4783 value4783
+insert 7837 value7837
+lookup 5069
+delete 6686
+insert 6587 value6587
+insert 7758 value7758
+insert 4593 value4593
+insert 7554 value7554
+delete 6667
+insert 4367 value4367
+lookup 7147
+print
+delete 5579
+insert 6708 value6708
+insert 6610 value6610
+print
+delete 6237
+lookup 5434
+insert 7027 value7027
+lookup 4171
+insert 4383 value4383
+lookup 7281
+insert 6237 value6237
+insert 6939 value6939
+lookup 6639
+insert 5434 value5434
+lookup 6361
+lookup 7622
+insert 5111 value5111
+delete 6230
+print
+insert 6939 value6939
+lookup 7758
+print
+lookup 4783
+lookup 7622
+delete 6520
+insert 6667 value6667
+lookup 5434
+insert 7846 value7846
+insert 6464 value6464
+delete 7846
+insert 5830 value5830
+lookup 4085
+lookup 4605
+delete 6873
+print
+insert 7255 value7255
+lookup 5111
+lookup 4593
+lookup 4085
+lookup 6389
+delete 4996
+insert 6122 value6122
+insert 5999 value5999
+print
+delete 7147
+insert 7712 value7712
+insert 7748 value7748
+insert 6389 value6389
+print
+insert 5114 value5114
+print
+insert 6389 value6389
+delete 6939
+lookup 5657
+print
+lookup 4383
+insert 4757 value4757
+delete 7027
+insert 6708 value6708
+lookup 4123
+print
+insert 7281 value7281
+insert 6873 value6873
+lookup 4939
+lookup 4783
+insert 5652 value5652
+lookup 4474
+lookup 4123

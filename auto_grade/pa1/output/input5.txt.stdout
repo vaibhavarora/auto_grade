@@ -1,0 +1,40 @@
+item successfully inserted
+item successfully inserted
+item successfully deleted
+item not found
+item successfully inserted
+item not found
+item successfully deleted
+item successfully inserted
+(15,a)(2,d)
+item successfully inserted
+item found; e 1
+item successfully inserted
+table doubled
+item successfully inserted
+item found; f 7
+item successfully deleted
+item successfully inserted
+item successfully inserted
+item successfully inserted
+(0,i)(1,h)(2,d)(3,g)(15,a)(5,newe)(16,f)
+item successfully inserted
+table doubled
+item successfully inserted
+item successfully deleted
+item not found
+item found; newe 5
+item successfully inserted
+(0,i)(1,h)(2,d)(3,g)(5,newe)(6,l)(14,k)(15,a)(16,f)
+item successfully inserted
+item successfully inserted
+item successfully inserted
+item not present in the table
+item successfully deleted
+item not found
+item successfully inserted
+item successfully inserted
+(0,i)(1,h)(2,d)(3,g)(5,newe)(6,l)(7,q)(8,m)(11,n)(12,p)(14,k)(15,a)(16,f)
+item found; f 16
+item already present
+item successfully deleted

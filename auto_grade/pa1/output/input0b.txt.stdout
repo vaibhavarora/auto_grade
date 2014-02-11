@@ -1,0 +1,9 @@
+item successfully inserted
+item successfully inserted
+item successfully inserted
+(443,a)(886,b)(1,c)
+item successfully deleted
+(443,a)(1,c)
+item successfully inserted
+(443,a)(887,newb)(1,c)
+item successfully deleted

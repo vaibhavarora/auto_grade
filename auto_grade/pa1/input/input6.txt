@@ -1,0 +1,59 @@
+insert 1 a
+insert 2 b
+insert 3 c
+insert 3 b
+insert 2 a
+insert 1 c
+lookup 1
+lookup 2
+lookup 3
+print
+delete 3
+delete 2
+delete 1
+lookup 1
+lookup 2
+lookup 3
+delete 1
+delete 2
+delete 3
+insert 443 a
+insert 886 b
+insert 1329 c
+lookup 1329
+lookup 886
+lookup 443
+print
+delete 443
+delete 886
+delete 1329
+insert 3524 asad
+insert 7528 vaibhav
+insert 8724 victor
+print
+insert 8730 amr
+print
+lookup 8413
+lookup 8730
+lookup 8724
+delete 8724
+delete 8724
+lookup 8724
+print
+insert 7528 vaibhav
+insert 2373 jin
+lookup 2373
+delete 2373
+insert 2373 newjin
+lookup 2373
+print
+insert 3544 shaun
+insert 7543 michael
+insert 9340 margaret
+print
+insert 6533 rick
+print
+insert 1368 indextwenty
+lookup 1368
+insert 9342 looparound
+lookup 9342

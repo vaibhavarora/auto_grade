@@ -1,0 +1,10 @@
+insert 443 a
+insert 886 b
+insert 1 c
+print
+delete 886
+print
+insert 887 newb
+print
+delete 1
+

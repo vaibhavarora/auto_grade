@@ -1,0 +1,13 @@
+insert 446 asad
+insert 450 victor
+insert 451 vaibhav
+lookup 451
+insert 453 jin
+print
+delete 444
+delete 453
+print
+delete 451
+lookup 446
+delete 446
+print

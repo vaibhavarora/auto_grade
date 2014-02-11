@@ -1,0 +1,33 @@
+insert 1 a
+insert 2 b
+insert 3 c
+print
+insert 4 d
+lookup 5
+insert 5 e
+insert 6 f
+insert 7 g
+lookup 8
+insert 8 h
+lookup 5
+insert 9 i
+insert 10 j
+insert 11 k
+print
+insert 12 l
+insert 13 m
+insert 14 n
+lookup 14
+lookup 8
+insert 15 o
+insert 16 p
+lookup 5
+insert 17 q
+insert 18 r
+lookup 14
+insert 19 s
+insert 20 t
+insert 21 u
+print
+insert 21 u
+lookup 20

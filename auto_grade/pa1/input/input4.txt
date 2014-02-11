@@ -1,0 +1,30 @@
+insert 15 a
+insert 4 b
+lookup 10
+insert 13 c
+lookup 5
+insert 2 d
+print
+insert 5 e
+lookup 5
+insert 16 f
+insert 3 g
+lookup 16
+insert 1 h
+insert 0 i
+print
+insert 10 j
+insert 14 k
+lookup 10
+lookup 5
+insert 6 l
+print
+insert 8 m
+insert 11 n
+insert 9 o
+lookup 10
+insert 12 p
+insert 7 q
+print
+lookup 16
+insert 7 q

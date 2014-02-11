@@ -1,0 +1,33 @@
+item successfully inserted
+item successfully inserted
+item not found
+item successfully inserted
+item not found
+item successfully inserted
+table doubled
+(2,d)(13,c)(4,b)(15,a)
+item successfully inserted
+item found; e 6
+item successfully inserted
+item successfully inserted
+item found; f 7
+item successfully inserted
+table doubled
+item successfully inserted
+(0,i)(1,h)(2,d)(3,g)(4,b)(5,e)(13,c)(15,a)(16,f)
+item successfully inserted
+item successfully inserted
+item found; j 10
+item found; e 5
+item successfully inserted
+(0,i)(1,h)(2,d)(3,g)(4,b)(5,e)(6,l)(10,j)(13,c)(14,k)(15,a)(16,f)
+item successfully inserted
+item successfully inserted
+item successfully inserted
+table doubled
+item found; j 10
+item successfully inserted
+item successfully inserted
+(0,i)(1,h)(2,d)(3,g)(4,b)(5,e)(6,l)(7,q)(8,m)(9,o)(10,j)(11,n)(12,p)(13,c)(14,k)(15,a)(16,f)
+item found; f 16
+item already present

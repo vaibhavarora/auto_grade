@@ -1,0 +1,23 @@
+insert 15 a
+insert 4 b
+insert 13 c
+insert 2 d
+print
+insert 5 e
+insert 16 f
+insert 3 g
+insert 1 h
+insert 0 i
+print
+insert 10 j
+insert 14 k
+insert 6 l
+print
+insert 8 m
+insert 11 n
+insert 9 o
+insert 12 p
+insert 7 q
+print
+insert 7 q
+
